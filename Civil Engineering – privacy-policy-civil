@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Privacy Policy - Civil Engineering</title>
+<meta charset="utf-8">
+</head>
+<body>
+
+<h2>Privacy Policy</h2>
+<p>Developer: <b>Shohag Khan</b><br>Email: <b>shohag100224@gmail.com</b></p>
+
+<p>Civil Engineering app is provided by Shohag Khan as a Free service. This Privacy Policy explains how the app collects, uses, and protects user information.</p>
+
+<h3>Information Collection and Use</h3>
+<p>The app does not collect any personal information directly. However, third-party services used in the app may collect data for analytics and advertising.</p>
+
+<h3>Third-party Services Used</h3>
+<ul>
+<li>Google Play Services</li>
+<li>AdMob</li>
+<li>Firebase Analytics</li>
+<li>Firebase Crashlytics</li>
+</ul>
+
+<h3>Log Data</h3>
+<p>In case of an error while using the app, third-party services may collect information such as device IP, device name, OS version, crash logs, etc.</p>
+
+<h3>Cookies</h3>
+<p>Some third-party SDKs may use cookies to improve their service.</p>
+
+<h3>Children’s Privacy</h3>
+<p>The app does not knowingly collect data from children under 13.</p>
+
+<h3>Changes to This Policy</h3>
+<p>This policy may be updated occasionally. Users are encouraged to review it periodically.</p>
+
+<p>November 18, 2025</p>
+
+</body>
+</html>
